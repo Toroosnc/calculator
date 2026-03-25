@@ -19,4 +19,4 @@ Buka terminal dan jalankan perintah berikut sesuai sistem operasi:
 ```bash
 g++ -shared -o calculator.dll calculator.cpp
 
-python main.py
+python call.py
